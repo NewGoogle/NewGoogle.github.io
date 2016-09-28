@@ -14,7 +14,7 @@ echo Hi!
 
 <input type="text" size="50"><br><br>
 
-<a class="button" href="index.php">Submit</a>
+<a class="button" href="index.html">Submit</a>
 
 </body>
 </html>
